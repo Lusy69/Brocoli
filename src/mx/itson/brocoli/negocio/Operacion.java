@@ -14,6 +14,8 @@ public class Operacion {
          * @param valor cadena de tecto que sera separada a partir de la expresion dada.
          * @return array de string donde dada posicion representa una division de la cadena de texto.
          */
+        //hola guapo
+        
         String[] elementos = valor.split("-");
         return elementos;
                 }
